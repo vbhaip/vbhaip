@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hey!
+
+I'm studying computer science and math at the University of Virginia. I like making cool projects that help people.
+
+#### Favorite Projects
+
+[HelioHex](https://vinaybhaip.com/blog/2020/07/05/heliohex): A modular, music-syncing lighting system I built from scratch
+
+[Visualization of Spotify Behavior](https://vinaybhaip.com/blog/2020/08/22/spotify-artist-viz): A visual walkthrough on my listening patterns
+
+[Machine Learning Research on Fruit Fly Behaviors](https://vinaybhaip.com/gap-crossing-paper.pdf): Understanding decision-making processes in fruit flies
+
+#### Where You Can Find Me
+
+[Website](https://vinaybhaip.com/)
+
+[Blog](http://vinaybhaip.com/blog)
+
+[LinkedIn](https://www.linkedin.com/in/vinay-bhaip)
+
 
 <!--
 **vbhaip/vbhaip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
