@@ -1,4 +1,6 @@
-### Hey!
+<img src="hey.gif"></img>
+
+(If you want to make something like this, check out my latest project at [tileflip.xyz](https://tileflip.xyz)!)
 
 I'm studying computer science and math at the University of Virginia. I like making cool projects that help people.
 
