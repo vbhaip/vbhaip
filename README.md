@@ -1,8 +1,13 @@
 <img src="hey.gif"></img>
 
-(If you want to make something like this, check out my latest project at [tileflip.xyz](https://tileflip.xyz)!)
+(To make something like this, check out my project [tileflip.xyz](https://tileflip.xyz)!)
 
 I'm studying computer science and math at the University of Virginia. I like making cool projects that help people.
+
+
+#### What I'm working on right now
+
+[Ranked Choice Voting: A More Representative Democracy?](https://vinaybhaip.com/ranked-choice) - A visualization on ranked choice voting
 
 #### Favorite Projects
 
