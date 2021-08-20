@@ -15,7 +15,7 @@ I'm studying computer science and math at the University of Virginia. I like mak
 
 [Visualization of Spotify Behavior](https://vinaybhaip.com/blog/2020/08/22/spotify-artist-viz): A visual walkthrough on my listening patterns
 
-[Machine Learning Research on Fruit Fly Behaviors](https://vinaybhaip.com/gap-crossing-paper.pdf): Understanding decision-making processes in fruit flies
+[Machine Learning Research on Fruit Fly Behaviors](https://vinaybhaip.com/assets/gap-crossing-paper.pdf): Understanding decision-making processes in fruit flies
 
 #### Where You Can Find Me
 
