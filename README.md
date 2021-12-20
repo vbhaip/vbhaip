@@ -1,6 +1,6 @@
 <img src="hey.gif"></img>
 
-(To make something like this, check out my project [tileflip.xyz](https://tileflip.xyz)!)
+(To make something like this, check out my project [TileFlip](https://vinaybhaip.com/TileFlip)!)
 
 I'm studying computer science and math at the University of Virginia. I like making cool projects that help people.
 
