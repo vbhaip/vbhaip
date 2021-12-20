@@ -5,13 +5,11 @@
 I'm studying computer science and math at the University of Virginia. I like making cool projects that help people.
 
 
-#### What I'm working on right now
-
-[Ranked Choice Voting: A More Representative Democracy?](https://vinaybhaip.com/ranked-choice) - A visualization on ranked choice voting
-
 #### Favorite Projects
 
 [HelioHex](https://vinaybhaip.com/blog/2020/07/05/heliohex): A modular, music-syncing lighting system I built from scratch
+
+[Ranked Choice Voting: A More Representative Democracy?](https://vinaybhaip.com/ranked-choice) - A visualization on ranked choice voting
 
 [Visualization of Spotify Behavior](https://vinaybhaip.com/blog/2020/08/22/spotify-artist-viz): A visual walkthrough on my listening patterns
 
